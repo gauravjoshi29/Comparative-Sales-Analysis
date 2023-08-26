@@ -18,5 +18,5 @@ Python Libraries:
 -> scikit learn (sklearn)
 
 Authors:
-Gaurav Joshi
-Rishit Luthra
+@Gaurav Joshi
+@Rishit Luthra
