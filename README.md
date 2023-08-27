@@ -6,7 +6,7 @@ Aim:
 
 Tools and Software:
 -Python
--Jupyter Notebook
+-Jupyter Notebook 
 -Machine Learning
 -Tableau 
 
