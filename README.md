@@ -1,4 +1,4 @@
-# Comparative-Sales-Analysis-using-Logistic-Regression
+# Comparative-Sales-Analysis
  
 Aim:
 -Identify the factors that are most influential in determining sales of two different products.
@@ -18,5 +18,5 @@ Python Libraries:
 -scikit learn (sklearn)
 
 Authors:
-@Gaurav Joshi
-@Rishit Luthra
+@GauravJoshi
+@RishitLuthra
