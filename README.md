@@ -1,22 +1,7 @@
-# Comparative-Sales-Analysis
+# Comparative-Sales-Analysis-using-Logistic-Regression
  
-Aim:
-Identify the factors that are most influential in determining sales of two different products.
-Use this information to make better decisions about product pricing, marketing, and distribution.
+In thie project, We conducted a comprehensive analysis of sales data from different time periods or product categories. We applied logistic regression models to compare sales trends, identifying key factors influencing sales variations. The project aimed to provide actionable insights for sales optimization and strategy refinement.
 
-Tools and Software:
--Python
--Jupyter Notebook 
--Machine Learning
--Tableau 
-
-Python Libraries:
--pandas
--numpy
--matplotlib
--seaborn
--scikit learn (sklearn)
-
-Authors:
+authors
 @GauravJoshi
 @RishitLuthra
